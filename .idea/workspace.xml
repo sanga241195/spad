@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c06cf59-489b-4a35-8c03-aaa84cb4902a" name="Default Changelist" comment="Initial SPAD Commit.">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_45_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/exportdb.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spadProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/About.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/About.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/AllStudent.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/AllStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/BookForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/BookForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/DeleteBook.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/DeleteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/IssueBookForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/IssueBookForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/LibrarianDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/LibrarianLogin.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/LibrarianLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/LibrarianSuccess.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/LibrarianSuccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/MainLibrary.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/MainLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/NewView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/NewView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/ReturnBookForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/ReturnBookForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/TransBookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserLogin.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserLoginSuccess.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserLoginSuccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserViewBook.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserViewBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UsersDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/ViewBook.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainlibrary/ViewBook.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1avO9Ujdbd7NSGemsc73N0F9zKR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainLibrary" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainlibrary.MainLibrary" />
+      <module name="spadProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="mainlibrary.MainLibrary" />
+      <module name="spadProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c06cf59-489b-4a35-8c03-aaa84cb4902a" name="Default Changelist" comment="" />
+      <created>1587612450087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587612450087</updated>
+      <workItem from="1587612452270" duration="11000" />
+      <workItem from="1587612494829" duration="1113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial SPAD Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial SPAD Commit." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587612883190">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587612883190" />
+    <state x="499" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587612783011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1587612783011" />
+    <state x="475" y="154" key="FileChooserDialogImpl" timestamp="1587613210622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587613210622" />
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1587613543475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587613543475" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1587613543475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587613543475" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1587613543475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587613543475" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1587613543475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587613543475" />
+    <state x="250" y="0" key="SettingsEditor" timestamp="1587613189138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587613189138" />
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2" timestamp="1587613474469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587613474469" />
+    <state x="498" y="202" key="git4idea.merge.GitPullDialog" timestamp="1587613318842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1587613318842" />
+    <state x="572" y="320" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587613277143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="572" y="320" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587613277143" />
+    <state x="600" y="204" key="svn.repositoryBrowser" timestamp="1587613200307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="600" y="204" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1587613200307" />
+  </component>
+</project>
